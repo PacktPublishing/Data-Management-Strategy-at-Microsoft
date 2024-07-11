@@ -10,14 +10,14 @@ This is the code repository for [Data Management Strategy at Microsoft](https://
 Explore Microsoft's pioneering data innovation and investment, driving significant advancements in data maturity, detailed in this book. Learn how business stakeholders who rely on data for daily operations can foster data-driven innovation.
 
 This book covers the following exciting features:
-Develop a data-driven roadmap to achieve significant and quantifiable business goals
-Discover the ties between data management and change management
-Explore the data maturity curve with essential technology investments
-Build, safeguard, and amplify your organization’s unique Data Intellectual Property
-Equip business leaders with trustworthy and high value data for informed decision-making
-Unleash the value of data management and data governance to uplift your data investments
+* Develop a data-driven roadmap to achieve significant and quantifiable business goals
+* Discover the ties between data management and change management
+* Explore the data maturity curve with essential technology investments
+* Build, safeguard, and amplify your organization’s unique Data Intellectual Property
+* Equip business leaders with trustworthy and high value data for informed decision-making
+* Unleash the value of data management and data governance to uplift your data investments
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1835462146) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1835469183) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
