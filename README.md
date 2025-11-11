@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
 # Data Management Strategy at Microsoft
 
 <a href="https://www.amazon.com/Data-Management-Strategy-Microsoft-transformation/dp/1835469183/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.j_HeNknzwDWfG8-hrXEY35vYExV70P2XFAvmTQApSYDGjHj071QN20LucGBJIEps.yUoWjPvj9fDl0Brg0Ela7LBFUvOsnjZhMKW7fxfA8Gc&qid=1720681783&sr=1-3"><img src="https://m.media-amazon.com/images/I/715+fV29ELL._SL1500_.jpg" alt="Shipping & Fee Details" height="256px" align="right"></a>
